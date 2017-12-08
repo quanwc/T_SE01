@@ -1,0 +1,6 @@
+easyui的学习：
+	前后台的交互：
+	
+实现：servlet + easyui + oracle
+数据库：Oracle数据库
+
